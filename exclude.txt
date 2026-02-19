@@ -1,6 +1,0 @@
-.metadata
-target
-.settings
-bin
-*.class
-*.log
